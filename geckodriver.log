@@ -1,0 +1,222 @@
+1641473651725	geckodriver	INFO	Listening on 127.0.0.1:62394
+1641473655831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Diego\\AppData\\Local\\Temp\\rust_mozprofileTWu90q"
+*** You are running in headless mode.
+1641473656505	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1641473657742	Marionette	INFO	Listening on port 62402
+1641473657866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/js/th/V8kTBFpAX1XhyzY0nfXgVJdIdeWUGraetUTQkEuhztU.js line 1 > eval line 5232 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/V8kTBFpAX1XhyzY0nfXgVJdIdeWUGraetUTQkEuhztU.js line 1 > eval line 4048 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641473763318	Marionette	INFO	Stopped listening on port 62402
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641475842732	geckodriver	INFO	Listening on 127.0.0.1:64409
+1641475846457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Diego\\AppData\\Local\\Temp\\rust_mozprofile21eJMY"
+*** You are running in headless mode.
+1641475846752	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1641475847628	Marionette	INFO	Listening on port 64417
+1641475847988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/js/th/V8kTBFpAX1XhyzY0nfXgVJdIdeWUGraetUTQkEuhztU.js line 1 > eval line 1787 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/V8kTBFpAX1XhyzY0nfXgVJdIdeWUGraetUTQkEuhztU.js line 1 > eval line 1089 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Diego\AppData\Local\Temp\rust_mozprofile21eJMY\thumbnails) because it does not exist
+ "-profile" "C:\\Users\\Diego\\AppData\\Local\\Temp\\rust_mozprofileOdGZ8p"
+*** You are running in headless mode.
+1641477216834	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1641477217751	Marionette	INFO	Listening on port 54062
+1641477218086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/js/th/V8kTBFpAX1XhyzY0nfXgVJdIdeWUGraetUTQkEuhztU.js line 1 > eval line 6520 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/V8kTBFpAX1XhyzY0nfXgVJdIdeWUGraetUTQkEuhztU.js line 1 > eval line 1169 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641477369128	Marionette	INFO	Stopped listening on port 54062
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:131:26
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641515582623	geckodriver	INFO	Listening on 127.0.0.1:53285
+1641515586597	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Diego\\AppData\\Local\\Temp\\rust_mozprofile0sZ6oY"
+*** You are running in headless mode.
+1641515587263	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1641515588589	Marionette	INFO	Listening on port 53295
+1641515588648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/js/th/V8kTBFpAX1XhyzY0nfXgVJdIdeWUGraetUTQkEuhztU.js line 1 > eval line 390 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/V8kTBFpAX1XhyzY0nfXgVJdIdeWUGraetUTQkEuhztU.js line 1 > eval line 1250 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641515741165	Marionette	INFO	Stopped listening on port 53295
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:131:26
+
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641560801080	geckodriver	INFO	Listening on 127.0.0.1:54284
+1641560804738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Diego\\AppData\\Local\\Temp\\rust_mozprofiley8u9ZS"
+*** You are running in headless mode.
+1641560805348	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1641560806849	Marionette	INFO	Listening on port 64594
+1641560806904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/js/th/V8kTBFpAX1XhyzY0nfXgVJdIdeWUGraetUTQkEuhztU.js line 1 > eval line 7208 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/V8kTBFpAX1XhyzY0nfXgVJdIdeWUGraetUTQkEuhztU.js line 1 > eval line 3569 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641560940919	Marionette	INFO	Stopped listening on port 64594
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641826469850	geckodriver	INFO	Listening on 127.0.0.1:64467
+1641826473536	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Diego\\AppData\\Local\\Temp\\rust_mozprofile0IyRX6"
+*** You are running in headless mode.
+1641826474170	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1641826475311	Marionette	INFO	Listening on port 64475
+1641826475586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/js/th/AsT7ya4FQfbaGyAazORM06qWumHZ9AZwG8OVPCMFzfI.js line 1 > eval line 5798 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/AsT7ya4FQfbaGyAazORM06qWumHZ9AZwG8OVPCMFzfI.js line 1 > eval line 49 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641826645149	Marionette	INFO	Stopped listening on port 64475
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:131:26
+
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641919421529	geckodriver	INFO	Listening on 127.0.0.1:55183
+1641919425375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Diego\\AppData\\Local\\Temp\\rust_mozprofilecxWPqz"
+*** You are running in headless mode.
+1641919426054	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1641919427408	Marionette	INFO	Listening on port 55191
+1641919427449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/js/th/AsT7ya4FQfbaGyAazORM06qWumHZ9AZwG8OVPCMFzfI.js line 1 > eval line 779 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/AsT7ya4FQfbaGyAazORM06qWumHZ9AZwG8OVPCMFzfI.js line 1 > eval line 5815 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641919573966	Marionette	INFO	Stopped listening on port 55191
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014F,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641992846446	geckodriver	INFO	Listening on 127.0.0.1:49406
+1641992850279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Diego\\AppData\\Local\\Temp\\rust_mozprofileGLzDcZ"
+*** You are running in headless mode.
+1641992850910	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1641992852286	Marionette	INFO	Listening on port 49415
+1641992852338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.google.com/js/th/I87jw3gPUXOgPX_dF0sH25oUZC2zHM-ekelnE5MxMF0.js line 1 > eval line 516 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/I87jw3gPUXOgPX_dF0sH25oUZC2zHM-ekelnE5MxMF0.js line 1 > eval line 171 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641993005038	Marionette	INFO	Stopped listening on port 49415
+console.error: services.settings: 
+  main/doh-config Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:131:26
+
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1645889812645	geckodriver	INFO	Listening on 127.0.0.1:51894
+1645889817609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Diego\\AppData\\Local\\Temp\\rust_mozprofile0mkziX"
+*** You are running in headless mode.
+1645894556487	geckodriver	INFO	Listening on 127.0.0.1:49787
+1645894561885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Diego\\AppData\\Local\\Temp\\rust_mozprofileqwl3qO"
+*** You are running in headless mode.
+1645894562723	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1645894563579	Marionette	INFO	Listening on port 49796
+1645894563945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Diego\AppData\Local\Temp\rust_mozprofileqwl3qO\thumbnails) because it does not exist
+JavaScript warning: https://www.google.com/js/th/AjGVv28pUfxZevPIxH2qtzlFRbddoDIJQewWmz4VGy4.js line 1 > eval line 479 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/AjGVv28pUfxZevPIxH2qtzlFRbddoDIJQewWmz4VGy4.js line 1 > eval line 3279 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1645895408892	geckodriver	INFO	Listening on 127.0.0.1:64880
+1645895414290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Diego\\AppData\\Local\\Temp\\rust_mozprofileR6lKdG"
+*** You are running in headless mode.
+1645895415000	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1645895415821	Marionette	INFO	Listening on port 64890
+1645895416341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Diego\AppData\Local\Temp\rust_mozprofileR6lKdG\thumbnails) because it does not exist
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript warning: https://www.google.com/js/th/AjGVv28pUfxZevPIxH2qtzlFRbddoDIJQewWmz4VGy4.js line 1 > eval line 6615 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/AjGVv28pUfxZevPIxH2qtzlFRbddoDIJQewWmz4VGy4.js line 1 > eval line 7654 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Diego\AppData\Local\Temp\rust_mozprofileR6lKdG\thumbnails) because it does not exist
+1646003580321	geckodriver	INFO	Listening on 127.0.0.1:54359
+1646003589405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Diego\\AppData\\Local\\Temp\\rust_mozprofilesluZl6"
+*** You are running in headless mode.
+1646003591009	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1646003593023	Marionette	INFO	Listening on port 54368
+1646003593280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Diego\AppData\Local\Temp\rust_mozprofilesluZl6\thumbnails) because it does not exist
+JavaScript warning: https://www.google.com/js/th/AjGVv28pUfxZevPIxH2qtzlFRbddoDIJQewWmz4VGy4.js line 1 > eval line 634 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/AjGVv28pUfxZevPIxH2qtzlFRbddoDIJQewWmz4VGy4.js line 1 > eval line 1165 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1646061257622	geckodriver	INFO	Listening on 127.0.0.1:55518
+1646061262573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\Diego\\AppData\\Local\\Temp\\rust_mozprofilehI0xwt"
+*** You are running in headless mode.
+1646061263635	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1646061264645	Marionette	INFO	Listening on port 55526
+1646061264738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\Diego\AppData\Local\Temp\rust_mozprofilehI0xwt\thumbnails) because it does not exist
+JavaScript warning: https://www.google.com/js/th/AjGVv28pUfxZevPIxH2qtzlFRbddoDIJQewWmz4VGy4.js line 1 > eval line 5780 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/AjGVv28pUfxZevPIxH2qtzlFRbddoDIJQewWmz4VGy4.js line 1 > eval line 5320 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
